@@ -1,10 +1,4 @@
 # Video Speed Tracker
-Documentation for Video Speed Tracker, and related documents.
-
->The resolution proposed to Charlottesville City Council at the end of the presentation will change.  It needs to reflect that speeding by city vehicles is probably not the fault of the drivers alone.  They likely have supervisors who are pushing them to stay on schedule.
-
-
-##Overview
 The Video Speed Tracker (VST) is an open source, technically sound, vehicle speed measuring system
 that can track bidirectional traffic, one lane in each direction (e.g. a typical residential street). Beyond a typical home
 computer, the VST requires video from an HD camera, many of which can be purchased for less than
