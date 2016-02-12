@@ -3,13 +3,10 @@ Documentation for Video Speed Tracker, and related documents.
 
 >The resolution proposed to Charlottesville City Council at the end of the presentation will change.  It needs to reflect that speeding by city vehicles is probably not the fault of the drivers alone.  They likely have supervisors who are pushing them to stay on schedule.
 
-### Author
-Paul Reynolds
 
 ##Overview
 The Video Speed Tracker (VST) is an open source, technically sound, vehicle speed measuring system
-that can track bidirectional traffic, one lane in each direction (e.g. a typical residential street). Software
-for the VST can be found at https://github.com/pfr/VideoSpeedTracker. Beyond a typical home
+that can track bidirectional traffic, one lane in each direction (e.g. a typical residential street). Beyond a typical home
 computer, the VST requires video from an HD camera, many of which can be purchased for less than
 $100 (e.g. the Foscam Fi9103EP, power over Ethernet, outdoor camera). If you plan to modify and
 recompile VST then you need to have OpenCV c 2.4.11 installed.
@@ -37,3 +34,10 @@ and produces a final video file meant to depict carefully reviewed speeding vehi
 video processor supports user viewing of each vehicle as it passes through the speed measuring zone,
 replay, slow replay, deletion and keeping for the final highlights video. The final highlights video
 should be the sort of thing your lawyer would be comfortable with you posting to the internet.
+
+## Authors
+### Original Author and Development Lead
+- Paul Reynolds (reynolds@virginia.edu) www.cs.virginia.edu/~pfr
+
+### Contributors
+see https://github.com/pfr/VST_Docs/graphs/contributors
