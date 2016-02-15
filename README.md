@@ -1,3 +1,5 @@
+This repo will go away soon.  Please see github.com/pfr/VideoSpeedTracker.  Source and an updated user manual are there now.
+
 # Video Speed Tracker
 The Video Speed Tracker (VST) is an open source, technically sound, vehicle speed measuring system
 that can track bidirectional traffic, one lane in each direction (e.g. a typical residential street). Beyond a typical home
